@@ -1,0 +1,1190 @@
+{
+	"vendor": "Stairville",
+	"device_name": "MH-X50+ LED Spot",
+	"author": "Loreley",
+	"manual": "https://images.thomann.de/pics/atg/atgdata/document/manual/c_250558_v2_r1_en_online.pdf",
+	"uuid": "93f9cc00-5982-40e9-86ce-7ce3b7db7d16",
+	"image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAABo2lDQ1BJQ0MgUHJvZmlsZQAAKJF9kDtIw1AUhv+2SlUqDio4iAR8LFYpcXG0VShFhVIVrDqYV1uhSUMaUcFRcFEQHXwsvgYXB0HQSejgKgiKIoqj4OprkRLPbSptFT1wuB9//nNy7w84lwRdT5b5AFUzjUgwwI1Gxzj3ExxwU1eiXZDSuj8cHgDV91laHzfkpLrqYLtC5Ucif//cVH/Wf7zqWXb/9pdUtaykJcDBEfdIumESTxI3z5g64wXiOoMuRbzBOG7zIWPR5kzOMxzpJb4m5qSEIBO/EXulhKECTra/RVZl0p19NmuME4zFotl4EavJaSl/T/ZCj6KNDDE/dSOCCGEQYXAQMY0pJGGig06NlDQi9D1gKrMmG+5N6XPGVDxhcn5KSOFCmtTp5XgfzwMs7585FrTUDtD9DrhWCpq4DpwuAg13Ba1lG6ihrE7OdcEQcpKL2hmLAS8HFHMUqL0EqsbTsS7efpEnAJQ/WtZrK+BeA7IrlvW5a1nZPRp+ADKanV1+F/ZvgeF5YOAC2NwC2uL0z4k/MqrIZZTP4V9PPscvSIV+LNAdG9kAAACyZVhJZk1NACoAAAAIAAcBEgADAAAAAQABAAABGgAFAAAAAQAAAGIBGwAFAAAAAQAAAGoBKAADAAAAAQACAAABMQACAAAADQAAAHIBMgACAAAAFAAAAICHaQAEAAAAAQAAAJQAAAAAAAABLAAAAAEAAAEsAAAAAUdJTVAgMi4xMC4yOAAAMjAyMjowMTowNyAwMTowOToyNgAAAqACAAQAAAABAAAAUKADAAQAAAABAAAAUAAAAAAzi+b+AAAACXBIWXMAAC4jAAAuIwF4pT92AAAIC2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczpleGlmPSJodHRwOi8vbnMuYWRvYmUuY29tL2V4aWYvMS4wLyIKICAgICAgICAgICAgeG1sbnM6R0lNUD0iaHR0cDovL3d3dy5naW1wLm9yZy94bXAvIgogICAgICAgICAgICB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iCiAgICAgICAgICAgIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIKICAgICAgICAgICAgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iCiAgICAgICAgICAgIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPGV4aWY6Q29sb3JTcGFjZT4xPC9leGlmOkNvbG9yU3BhY2U+CiAgICAgICAgIDxHSU1QOkFQST4yLjA8L0dJTVA6QVBJPgogICAgICAgICA8R0lNUDpWZXJzaW9uPjIuMTAuMjg8L0dJTVA6VmVyc2lvbj4KICAgICAgICAgPEdJTVA6VGltZVN0YW1wPjE2NDE1MTQxNjgzNDk5OTI8L0dJTVA6VGltZVN0YW1wPgogICAgICAgICA8R0lNUDpQbGF0Zm9ybT5NYWMgT1M8L0dJTVA6UGxhdGZvcm0+CiAgICAgICAgIDxkYzpGb3JtYXQ+aW1hZ2UvcG5nPC9kYzpGb3JtYXQ+CiAgICAgICAgIDx4bXA6TW9kaWZ5RGF0ZT4yMDIyLTAxLTA3VDAxOjA5OjI2PC94bXA6TW9kaWZ5RGF0ZT4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5HSU1QIDIuMTAuMjg8L3htcDpDcmVhdG9yVG9vbD4KICAgICAgICAgPHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD54bXAuZGlkOjVlZjM3YWQ3LTU0ZmEtNGMxZi04NDljLWY3MDgxNjFiMTQ2ZTwveG1wTU06T3JpZ2luYWxEb2N1bWVudElEPgogICAgICAgICA8eG1wTU06SGlzdG9yeT4KICAgICAgICAgICAgPHJkZjpTZXE+CiAgICAgICAgICAgICAgIDxyZGY6bGkgcmRmOnBhcnNlVHlwZT0iUmVzb3VyY2UiPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6Y2hhbmdlZD4vPC9zdEV2dDpjaGFuZ2VkPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6c29mdHdhcmVBZ2VudD5HaW1wIDIuMTAgKE1hYyBPUyk8L3N0RXZ0OnNvZnR3YXJlQWdlbnQ+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDp3aGVuPjIwMjItMDEtMDdUMDE6MDk6MjgrMDE6MDA8L3N0RXZ0OndoZW4+CiAgICAgICAgICAgICAgICAgIDxzdEV2dDppbnN0YW5jZUlEPnhtcC5paWQ6Mjc4OTYxNGYtMzI1My00NjAzLTljYmEtMWVjZTQ1YTUxYTIzPC9zdEV2dDppbnN0YW5jZUlEPgogICAgICAgICAgICAgICAgICA8c3RFdnQ6YWN0aW9uPnNhdmVkPC9zdEV2dDphY3Rpb24+CiAgICAgICAgICAgICAgIDwvcmRmOmxpPgogICAgICAgICAgICA8L3JkZjpTZXE+CiAgICAgICAgIDwveG1wTU06SGlzdG9yeT4KICAgICAgICAgPHhtcE1NOkRvY3VtZW50SUQ+Z2ltcDpkb2NpZDpnaW1wOmNmMTMxNzUxLTEzMTUtNDVlNy1iYTI0LWJhYTcyZDkxNjg2NDwveG1wTU06RG9jdW1lbnRJRD4KICAgICAgICAgPHhtcE1NOkluc3RhbmNlSUQ+eG1wLmlpZDo1YjIyNzYzMy1lNzY0LTRjOTItYjA4Zi01ZjkzY2U5MDg1NTY8L3htcE1NOkluc3RhbmNlSUQ+CiAgICAgICAgIDx0aWZmOlJlc29sdXRpb25Vbml0PjI8L3RpZmY6UmVzb2x1dGlvblVuaXQ+CiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24+CiAgICAgICAgIDx0aWZmOlhSZXNvbHV0aW9uPjMwMDwvdGlmZjpYUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WVJlc29sdXRpb24+MzAwPC90aWZmOllSZXNvbHV0aW9uPgogICAgICA8L3Jk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",
+	"modes": [
+		{
+			"id": 0,
+			"name": "8 Channel DMX",
+			"channel_count": 8,
+			"channels": [
+				{
+					"channel": 1,
+					"name": "Pan"
+				},
+				{
+					"channel": 2,
+					"name": "Tilt"
+				},
+				{
+					"channel": 3,
+					"name": "Color wheel"
+				},
+				{
+					"channel": 4,
+					"name": "Shutter"
+				},
+				{
+					"channel": 5,
+					"name": "Gobo wheel"
+				},
+				{
+					"channel": 6,
+					"name": "Gobo rotation"
+				},
+				{
+					"channel": 7,
+					"name": "Prism"
+				},
+				{
+					"channel": 8,
+					"name": "Focus"
+				}
+			],
+			"ui_channels": [
+				{
+					"channel": "1-2",
+					"name": "Position",
+					"type": "joystick",
+					"config": {
+						"joystick_axis": {
+							"x": 1,
+							"y": 2
+						}
+					}
+				},
+				{
+					"channel": "3",
+					"name": "Color wheel",
+					"type": "color-wheel",
+					"config": {
+						"colorwheel_subsets": [
+							{
+								"value": "0-6",
+								"name": "White",
+								"display_hex": [
+									"#ffffff"
+								],
+								"type": 0
+							},
+							{
+								"value": "7-13",
+								"name": "Yellow",
+								"display_hex": [
+									"#ffff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "14-20",
+								"name": "Pink",
+								"display_hex": [
+									"#FFC0CB"
+								],
+								"type": 0
+							},
+							{
+								"value": "21-27",
+								"name": "Green",
+								"display_hex": [
+									"#00ff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "28-34",
+								"name": "Peachblow",
+								"display_hex": [
+									"#D7735B"
+								],
+								"type": 0
+							},
+							{
+								"value": "35-41",
+								"name": "Blue",
+								"display_hex": [
+									"#32acfc"
+								],
+								"type": 0
+							},
+							{
+								"value": "42-48",
+								"name": "Kelly-green",
+								"display_hex": [
+									"#4cbb17"
+								],
+								"type": 0
+							},
+							{
+								"value": "49-55",
+								"name": "Red",
+								"display_hex": [
+									"#ff0000"
+								],
+								"type": 0
+							},
+							{
+								"value": "56-63",
+								"name": "Dark blue",
+								"display_hex": [
+									"#0000ff"
+								],
+								"type": 0
+							},
+							{
+								"value": "64-70",
+								"name": "White + yellow",
+								"display_hex": [
+									"#ffffff",
+									"#ffff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "71-77",
+								"name": "Yellow - pink",
+								"display_hex": [
+									"#ffff00",
+									"#FFC0CB"
+								],
+								"type": 0
+							},
+							{
+								"value": "78-84",
+								"name": "Pink + green",
+								"display_hex": [
+									"#FFC0CB",
+									"#00ff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "85-91",
+								"name": "Green + peachblow",
+								"display_hex": [
+									"#00ff00",
+									"#D7735B"
+								],
+								"type": 0
+							},
+							{
+								"value": "92-98",
+								"name": "Peachblow + blue",
+								"display_hex": [
+									"#D7735B",
+									"#0000ff"
+								],
+								"type": 0
+							},
+							{
+								"value": "99-105",
+								"name": "Blue + Kelly-green",
+								"display_hex": [
+									"#0000ff",
+									"#4cbb17"
+								],
+								"type": 0
+							},
+							{
+								"value": "106-112",
+								"name": "Kelly-green + red",
+								"display_hex": [
+									"#4cbb17",
+									"#ff0000"
+								],
+								"type": 0
+							},
+							{
+								"value": "113-119",
+								"name": "Red + dark blue",
+								"display_hex": [
+									"#ff0000",
+									"#00008B"
+								],
+								"type": 0
+							},
+							{
+								"value": "120-127",
+								"name": "Dark blue + white",
+								"display_hex": [
+									"#00008B",
+									"#ffffff"
+								],
+								"type": 0
+							},
+							{
+								"value": "128-191",
+								"name": "Rainbow (positive direction)",
+								"display_hex": [
+									"#FF6663",
+									"#FEB144",
+									"#FDFD97",
+									"#9EE09E",
+									"#9EC1CF",
+									"#CC99C9"
+								],
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 128,
+									"end": 191
+								}
+							},
+							{
+								"value": "192-255",
+								"name": "Rainbow (negative direction)",
+								"display_hex": [
+									"#CC99C9",
+									"#9EC1CF",
+									"#9EE09E",
+									"#FDFD97",
+									"#FEB144",
+									"#FF6663"
+								],
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 192,
+									"end": 255
+								}
+							}
+						]
+					}
+				},
+				{
+					"channel": "4",
+					"name": "Shutter",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-3",
+								"name": "Closed",
+								"type": 0
+							},
+							{
+								"value": "4-7",
+								"name": "Open",
+								"type": 0
+							},
+							{
+								"value": "8-215",
+								"name": "Strobe effect",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 8,
+									"end": 215
+								}
+							},
+							{
+								"value": "216-255",
+								"name": "Open",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "5",
+					"name": "Gobo wheel",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-7",
+								"name": "Open",
+								"type": 0
+							},
+							{
+								"value": "8-15",
+								"name": "Gobo 2",
+								"type": 0
+							},
+							{
+								"value": "16-23",
+								"name": "Gobo 3",
+								"type": 0
+							},
+							{
+								"value": "24-31",
+								"name": "Gobo 4",
+								"type": 0
+							},
+							{
+								"value": "32-39",
+								"name": "Gobo 5",
+								"type": 0
+							},
+							{
+								"value": "40-47",
+								"name": "Gobo 6",
+								"type": 0
+							},
+							{
+								"value": "48-55",
+								"name": "Gobo 7",
+								"type": 0
+							},
+							{
+								"value": "56-63",
+								"name": "Gobo 8",
+								"type": 0
+							},
+							{
+								"value": "64-71",
+								"name": "Gobo 8 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 64,
+									"end": 71
+								}
+							},
+							{
+								"value": "72-79",
+								"name": "Gobo 7 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 72,
+									"end": 79
+								}
+							},
+							{
+								"value": "80-87",
+								"name": "Gobo 6 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 80,
+									"end": 87
+								}
+							},
+							{
+								"value": "88-95",
+								"name": "Gobo 5 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 88,
+									"end": 95
+								}
+							},
+							{
+								"value": "96-103",
+								"name": "Gobo 4 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 96,
+									"end": 103
+								}
+							},
+							{
+								"value": "104-111",
+								"name": "Gobo 3 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 104,
+									"end": 111
+								}
+							},
+							{
+								"value": "112-119",
+								"name": "Gobo 2 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 112,
+									"end": 119
+								}
+							},
+							{
+								"value": "128-191",
+								"name": "Rainbow effect (positive direction)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 128,
+									"end": 191
+								}
+							},
+							{
+								"value": "192-255",
+								"name": "Rainbow effect (negative direction)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 192,
+									"end": 255
+								}
+							}
+						]
+					}
+				},
+				{
+					"channel": "6",
+					"name": "Gobo rotation",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-63",
+								"name": "Fixed",
+								"type": 0
+							},
+							{
+								"value": "64-147",
+								"name": "Rotation (positive)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 64,
+									"end": 147
+								}
+							},
+							{
+								"value": "148-231",
+								"name": "Rotation (negative)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 148,
+									"end": 231
+								}
+							},
+							{
+								"value": "232-255",
+								"name": "Bouncing",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "7",
+					"name": "Prism",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-7",
+								"name": "Unused",
+								"type": 0
+							},
+							{
+								"value": "8-247",
+								"name": "Rotation",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 8,
+									"end": 247
+								}
+							},
+							{
+								"value": "248-255",
+								"name": "Fixed",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "8",
+					"name": "Focus",
+					"type": "slider",
+					"config": {
+						"slider_settings": {
+							"start": 0,
+							"end": 255
+						}
+					}
+				}
+			]
+		},
+		{
+			"id": 1,
+			"name": "14 Channel DMX",
+			"channel_count": 14,
+			"channels": [
+				{
+					"channel": 1,
+					"name": "Pan"
+				},
+				{
+					"channel": 2,
+					"name": "Tilt"
+				},
+				{
+					"channel": 3,
+					"name": "Pan Fine"
+				},
+				{
+					"channel": 4,
+					"name": "Tilt Fine"
+				},
+				{
+					"channel": 5,
+					"name": "Response Speed"
+				},
+				{
+					"channel": 6,
+					"name": "Color wheel"
+				},
+				{
+					"channel": 7,
+					"name": "Shutter"
+				},
+				{
+					"channel": 8,
+					"name": "Dimmer"
+				},
+				{
+					"channel": 9,
+					"name": "Gobo wheel"
+				},
+				{
+					"channel": 10,
+					"name": "Gobo rotation"
+				},
+				{
+					"channel": 11,
+					"name": "Special functions"
+				},
+				{
+					"channel": 12,
+					"name": "Built-in programs"
+				},
+				{
+					"channel": 13,
+					"name": "Prism"
+				},
+				{
+					"channel": 14,
+					"name": "Focus"
+				}
+			],
+			"ui_channels": [
+				{
+					"channel": "1-2",
+					"name": "Position",
+					"type": "joystick",
+					"config": {
+						"joystick_axis": {
+							"x": 1,
+							"y": 2
+						}
+					}
+				},
+				{
+					"channel": "3",
+					"name": "Pan Fine",
+					"type": "slider",
+					"config": {
+						"slider_settings": {
+							"start": 0,
+							"end": 255
+						}
+					}
+				},
+				{
+					"channel": "4",
+					"name": "Tilt Fine",
+					"type": "slider",
+					"config": {
+						"slider_settings": {
+							"start": 0,
+							"end": 255
+						}
+					}
+				},
+				{
+					"channel": "5",
+					"name": "Response Speed",
+					"type": "slider",
+					"config": {
+						"slider_settings": {
+							"start": 0,
+							"end": 255
+						}
+					}
+				},
+				{
+					"channel": "6",
+					"name": "Color wheel",
+					"type": "color-wheel",
+					"config": {
+						"colorwheel_subsets": [
+							{
+								"value": "0-6",
+								"name": "White",
+								"display_hex": [
+									"#ffffff"
+								],
+								"type": 0
+							},
+							{
+								"value": "7-13",
+								"name": "Yellow",
+								"display_hex": [
+									"#ffff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "14-20",
+								"name": "Pink",
+								"display_hex": [
+									"#FFC0CB"
+								],
+								"type": 0
+							},
+							{
+								"value": "21-27",
+								"name": "Green",
+								"display_hex": [
+									"#00ff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "28-34",
+								"name": "Peachblow",
+								"display_hex": [
+									"#D7735B"
+								],
+								"type": 0
+							},
+							{
+								"value": "35-41",
+								"name": "Blue",
+								"display_hex": [
+									"#32acfc"
+								],
+								"type": 0
+							},
+							{
+								"value": "42-48",
+								"name": "Kelly-green",
+								"display_hex": [
+									"#4cbb17"
+								],
+								"type": 0
+							},
+							{
+								"value": "49-55",
+								"name": "Red",
+								"display_hex": [
+									"#ff0000"
+								],
+								"type": 0
+							},
+							{
+								"value": "56-63",
+								"name": "Dark blue",
+								"display_hex": [
+									"#0000ff"
+								],
+								"type": 0
+							},
+							{
+								"value": "64-70",
+								"name": "White + yellow",
+								"display_hex": [
+									"#ffffff",
+									"#ffff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "71-77",
+								"name": "Yellow - pink",
+								"display_hex": [
+									"#ffff00",
+									"#FFC0CB"
+								],
+								"type": 0
+							},
+							{
+								"value": "78-84",
+								"name": "Pink + green",
+								"display_hex": [
+									"#FFC0CB",
+									"#00ff00"
+								],
+								"type": 0
+							},
+							{
+								"value": "85-91",
+								"name": "Green + peachblow",
+								"display_hex": [
+									"#00ff00",
+									"#D7735B"
+								],
+								"type": 0
+							},
+							{
+								"value": "92-98",
+								"name": "Peachblow + blue",
+								"display_hex": [
+									"#D7735B",
+									"#0000ff"
+								],
+								"type": 0
+							},
+							{
+								"value": "99-105",
+								"name": "Blue + Kelly-green",
+								"display_hex": [
+									"#0000ff",
+									"#4cbb17"
+								],
+								"type": 0
+							},
+							{
+								"value": "106-112",
+								"name": "Kelly-green + red",
+								"display_hex": [
+									"#4cbb17",
+									"#ff0000"
+								],
+								"type": 0
+							},
+							{
+								"value": "113-119",
+								"name": "Red + dark blue",
+								"display_hex": [
+									"#ff0000",
+									"#00008B"
+								],
+								"type": 0
+							},
+							{
+								"value": "120-127",
+								"name": "Dark blue + white",
+								"display_hex": [
+									"#00008B",
+									"#ffffff"
+								],
+								"type": 0
+							},
+							{
+								"value": "128-191",
+								"name": "Rainbow (positive direction)",
+								"display_hex": [
+									"#FF6663",
+									"#FEB144",
+									"#FDFD97",
+									"#9EE09E",
+									"#9EC1CF",
+									"#CC99C9"
+								],
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 128,
+									"end": 191
+								}
+							},
+							{
+								"value": "192-255",
+								"name": "Rainbow (negative direction)",
+								"display_hex": [
+									"#CC99C9",
+									"#9EC1CF",
+									"#9EE09E",
+									"#FDFD97",
+									"#FEB144",
+									"#FF6663"
+								],
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 192,
+									"end": 255
+								}
+							}
+						]
+					}
+				},
+				{
+					"channel": "7",
+					"name": "Shutter",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-3",
+								"name": "Closed",
+								"type": 0
+							},
+							{
+								"value": "4-7",
+								"name": "Open",
+								"type": 0
+							},
+							{
+								"value": "8-215",
+								"name": "Strobe effect",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 8,
+									"end": 215
+								}
+							},
+							{
+								"value": "216-255",
+								"name": "Open",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "8",
+					"name": "Dimmer",
+					"type": "slider",
+					"config": {
+						"slider_settings": {
+							"start": 0,
+							"end": 255
+						}
+					}
+				},
+				{
+					"channel": "9",
+					"name": "Gobo wheel",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-7",
+								"name": "Open",
+								"type": 0
+							},
+							{
+								"value": "8-15",
+								"name": "Gobo 2",
+								"type": 0
+							},
+							{
+								"value": "16-23",
+								"name": "Gobo 3",
+								"type": 0
+							},
+							{
+								"value": "24-31",
+								"name": "Gobo 4",
+								"type": 0
+							},
+							{
+								"value": "32-39",
+								"name": "Gobo 5",
+								"type": 0
+							},
+							{
+								"value": "40-47",
+								"name": "Gobo 6",
+								"type": 0
+							},
+							{
+								"value": "48-55",
+								"name": "Gobo 7",
+								"type": 0
+							},
+							{
+								"value": "56-63",
+								"name": "Gobo 8",
+								"type": 0
+							},
+							{
+								"value": "64-71",
+								"name": "Gobo 8 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 64,
+									"end": 71
+								}
+							},
+							{
+								"value": "72-79",
+								"name": "Gobo 7 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 72,
+									"end": 79
+								}
+							},
+							{
+								"value": "80-87",
+								"name": "Gobo 6 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 80,
+									"end": 87
+								}
+							},
+							{
+								"value": "88-95",
+								"name": "Gobo 5 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 88,
+									"end": 95
+								}
+							},
+							{
+								"value": "96-103",
+								"name": "Gobo 4 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 96,
+									"end": 103
+								}
+							},
+							{
+								"value": "104-111",
+								"name": "Gobo 3 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 104,
+									"end": 111
+								}
+							},
+							{
+								"value": "112-119",
+								"name": "Gobo 2 shake",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 112,
+									"end": 119
+								}
+							},
+							{
+								"value": "128-191",
+								"name": "Rainbow effect (positive direction)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 128,
+									"end": 191
+								}
+							},
+							{
+								"value": "192-255",
+								"name": "Rainbow effect (negative direction)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 192,
+									"end": 255
+								}
+							}
+						]
+					}
+				},
+				{
+					"channel": "10",
+					"name": "Gobo rotation",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-63",
+								"name": "Fixed",
+								"type": 0
+							},
+							{
+								"value": "64-147",
+								"name": "Rotation (positive)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 64,
+									"end": 147
+								}
+							},
+							{
+								"value": "148-231",
+								"name": "Rotation (negative)",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 148,
+									"end": 231
+								}
+							},
+							{
+								"value": "232-255",
+								"name": "Bouncing",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "12",
+					"name": "Built-in programs",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-7",
+								"name": "Unused",
+								"type": 0
+							},
+							{
+								"value": "8-23",
+								"name": "Program 1",
+								"type": 0
+							},
+							{
+								"value": "24-39",
+								"name": "Program 2",
+								"type": 0
+							},
+							{
+								"value": "40-55",
+								"name": "Program 3",
+								"type": 0
+							},
+							{
+								"value": "56-71",
+								"name": "Program 4",
+								"type": 0
+							},
+							{
+								"value": "72-87",
+								"name": "Program 5",
+								"type": 0
+							},
+							{
+								"value": "88-103",
+								"name": "Program 6",
+								"type": 0
+							},
+							{
+								"value": "104-119",
+								"name": "Program 7",
+								"type": 0
+							},
+							{
+								"value": "120-135",
+								"name": "Program 8",
+								"type": 0
+							},
+							{
+								"value": "136-151",
+								"name": "Sound control 1",
+								"type": 0
+							},
+							{
+								"value": "152-167",
+								"name": "Sound control 2",
+								"type": 0
+							},
+							{
+								"value": "168-183",
+								"name": "Sound control 3",
+								"type": 0
+							},
+							{
+								"value": "184-199",
+								"name": "Sound control 4",
+								"type": 0
+							},
+							{
+								"value": "200-215",
+								"name": "Sound control 5",
+								"type": 0
+							},
+							{
+								"value": "216-231",
+								"name": "Sound control 6",
+								"type": 0
+							},
+							{
+								"value": "232-247",
+								"name": "Sound control 7",
+								"type": 0
+							},
+							{
+								"value": "248-255",
+								"name": "Sound control 8",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "13",
+					"name": "Prism",
+					"type": "dropdown",
+					"config": {
+						"dropdown_options": [
+							{
+								"value": "0-7",
+								"name": "Unused",
+								"type": 0
+							},
+							{
+								"value": "8-247",
+								"name": "Rotation",
+								"type": 1,
+								"slider_settings": {
+									"name": "Speed",
+									"start": 8,
+									"end": 247
+								}
+							},
+							{
+								"value": "248-255",
+								"name": "Fixed",
+								"type": 0
+							}
+						]
+					}
+				},
+				{
+					"channel": "14",
+					"name": "Focus",
+					"type": "slider",
+					"config": {
+						"slider_settings": {
+							"start": 0,
+							"end": 255
+						}
+					}
+				},
+				{
+					"channel": "11",
+					"name": "Reset channels",
+					"type": "button",
+					"config": {
+						"button_settings": {
+							"text": "Reset channels",
+							"is_dangerous": true,
+							"send_value": 152,
+							"reset_value": 0,
+							"special_function": 0
+						}
+					}
+				}
+			]
+		}
+	]
+}
