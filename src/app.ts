@@ -59,7 +59,7 @@ interface DeviceInformation {
 	filename: string;
 }
 
-app.listen(process.env.PORT || 8080, () => console.log('LDF server ready'));
+app.listen(process.env.PORT || 3000, () => console.log('LDF server ready'));
 // 404
 app.use((req, res) => {
 	res.status(404).json({ err: 'notFound' });
