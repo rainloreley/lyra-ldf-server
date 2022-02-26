@@ -6,12 +6,12 @@ const app = express();
 // Express configuration
 app.use(require('body-parser').json({ limit: '2mb' }));
 
-const devicesDirectory = path.resolve("public/devices") //path.join(__dirname, '../public/devices');
+const devicesDirectory = path.resolve("devices") //path.join(__dirname, '../public/devices');
 
-/*app.use(
+app.use(
 	'/devices',
 	express.static(devicesDirectory)
-);*/
+);
 
 app.use((err, req, res, next) => {
 	console.log(err);
