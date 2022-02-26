@@ -1,30 +1,28 @@
 import * as express from 'express';
-import { fs } from 'zx';
+import * as fs from 'fs';
 const path = require('path');
 const app = express();
-var serveIndex = require('serve-index');
 
 // Express configuration
 app.use(require('body-parser').json({ limit: '2mb' }));
 
 const devicesDirectory = path.join(__dirname, '../devices');
 
-app.use(
+/*app.use(
 	'/devices',
 	express.static(devicesDirectory)
-	//serveIndex(devicesDirectory)
-);
+);*/
 
 app.use((err, req, res, next) => {
 	console.log(err);
 	res.status(500).json({ err: 'internalError' });
 });
 
-app.get('/', (req: Request, res: Response) => {
+app.get('/', (req: express.Request, res: express.Response) => {
 	res.status(200).json({ message: 'This was a triumph' });
 });
 
-app.get('/devices', (req: Request, res: Response) => {
+app.get('/list', (req: express.Request, res: express.Response) => {
 	try {
 		const allFileNames = fs.readdirSync(devicesDirectory);
 		const allDevices: DeviceInformation[] = [];
@@ -42,6 +40,7 @@ app.get('/devices', (req: Request, res: Response) => {
 						uid: parsedjson.uuid,
 						name: parsedjson.device_name,
 						vendor: parsedjson.vendor,
+						filename: fileName
 					});
 				}
 			}
@@ -57,6 +56,7 @@ interface DeviceInformation {
 	uid: string;
 	vendor: string;
 	name: string;
+	filename: string;
 }
 
 app.listen(process.env.PORT || 8080, () => console.log('LDF server ready'));
