@@ -1,4 +1,4 @@
-import * as express from 'express';
+import express, {Response, Request} from 'express';
 import * as fs from 'fs';
 const path = require('path');
 const app = express();
@@ -18,11 +18,11 @@ app.use((err, req, res, next) => {
 	res.status(500).json({ err: 'internalError' });
 });
 
-app.get('/', (req: express.Request, res: express.Response) => {
+app.get('/', (req: Request, res: Response) => {
 	res.status(200).json({ message: 'This was a triumph' });
 });
 
-app.get('/list', (req: express.Request, res: express.Response) => {
+app.get('/list', (req: Request, res: Response) => {
 	try {
 		const allFileNames = fs.readdirSync(devicesDirectory);
 		const allDevices: DeviceInformation[] = [];
